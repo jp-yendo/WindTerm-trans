@@ -8,61 +8,61 @@
   "tr": "${Scheme} ツール"
  },{
   "en": "%1 %2 is not supported by %3.",
-  "tr": "%1%2は%3ではサポートされていません。"
+  "tr": "%1 %2は%3でサポートされていません。"
  },{
   "en": "%1 copied",
-  "tr": "%1コピー"
+  "tr": "%1をコピーしました"
  },{
   "en": "%1 downloaded",
-  "tr": "%1ダウンロード"
+  "tr": "%1をダウンロードしました"
  },{
   "en": "%1 File",
   "tr": "%1ファイル"
  },{
   "en": "%1 item failed",
-  "tr": "%1アイテムが失敗しました"
+  "tr": "%1項目が失敗しました"
  },{
   "en": "%1 items",
-  "tr": "%1アイテム"
+  "tr": "%1項目"
  },{
   "en": "%1 items failed",
-  "tr": "%1アイテムが失敗しました"
+  "tr": "%1項目が失敗しました"
  },{
   "en": "%1 items/s",
-  "tr": "%1アイテム/s"
+  "tr": "%1項目/s"
  },{
   "en": "%1 of %2",
-  "tr": "%2の%1"
+  "tr": "%2中の%1"
  },{
   "en": "%1 removed",
-  "tr": "%1が削除されました"
+  "tr": "%1を削除しました"
  },{
   "en": "%1 this %2",
-  "tr": "%1この%2"
+  "tr": "%1 この%2"
  },{
   "en": "%1 uploaded",
-  "tr": "%1アップロード"
+  "tr": "%1をアップロードしました"
  },{
   "en": "%1/%2 Speed: %3",
   "tr": "%1/%2 速度: %3"
  },{
   "en": "%1: %2 failed password attempts.",
-  "tr": "%1: パスワード試行に%2回失敗しました。"
+  "tr": "%1: パスワード試行に%2回失敗"
  },{
   "en": "%1<br>Has <b>changed</b> and <b>reloaded</b>, undo is <b>NOT</b> allowed for large file.",
-  "tr": "%1<br><b>変更</b>および<b>再ロード</b>されたため、大きなファイルに対して元に戻すことは<b>許可されていません</b>。"
+  "tr": "%1<br><b>変更</b>および<b>再読込</b>されました。大きなファイルは元に戻せません。"
  },{
   "en": "%1<br>Has <b>changed</b> and <b>reloaded</b>, undo is allowed.",
-  "tr": "%1<br><b>変更</b>および<b>再読み込み</b>されたため、元に戻すことができます。"
+  "tr": "%1<br><b>変更</b>および<b>再読込</b>されました。元に戻せます。"
  },{
   "en": "%1<br>Has <b>changed</b>, Do you want to reload it?",
-  "tr": "%1<br><b>変更</b>されました、リロードしますか？"
+  "tr": "%1<br><b>変更</b>されました。再読込しますか？"
  },{
   "en": "%1<br>Has been <b>moved or deleted</b>.",
   "tr": "%1<br><b>移動または削除</b>されました。"
  },{
   "en": "(%1) was pressed. Waiting for more keys",
-  "tr": "（%1）が押されました。より多くのキーを待っています"
+  "tr": "(%1)が押されました。追加キー入力待ち"
  },{
   "en": "1 Char",
   "tr": "1文字"
@@ -89,7 +89,7 @@
   "tr": "8列"
  },{
   "en": "A Master Password is used to protect sensitive information like SSH passwords.",
-  "tr": "マスターパスワードは、SSHパスワードなどの機密情報を保護するために使用されます。"
+  "tr": "マスターパスワードはSSHパスワードなどの機密情報を保護します。"
  },{
   "en": "A remote file has been modified.\nDo you want to upload this file back to the server?",
   "tr": "リモートファイルが変更されました。\nこのファイルをサーバーにアップロードし直しますか？"
@@ -104,7 +104,7 @@
   "tr": "平日の略称"
  },{
   "en": "Accept local connections only",
-  "tr": "ローカル接続のみを受け入れる"
+  "tr": "ローカル接続のみ許可"
  },{
   "en": "Accessed",
   "tr": "アクセス済み"
@@ -125,19 +125,19 @@
   "tr": "前のビューをアクティブ化"
  },{
   "en": "Activate the left tab",
-  "tr": "左側のタブをアクティブにします"
+  "tr": "左タブをアクティブ化"
  },{
   "en": "Activate the previously selected tab",
-  "tr": "以前に選択したタブをアクティブにします"
+  "tr": "前に選択したタブをアクティブ化"
  },{
   "en": "Activate the right tab",
-  "tr": "右側のタブをアクティブにします"
+  "tr": "右タブをアクティブ化"
  },{
   "en": "Activate the tab after closing",
-  "tr": "閉じた後にタブをアクティブにする"
+  "tr": "閉じた後にタブをアクティブ化"
  },{
   "en": "Activate the tab after hovering",
-  "tr": "ホバー後にタブをアクティブにします"
+  "tr": "ホバー後にタブをアクティブ化"
  },{
   "en": "Add Group",
   "tr": "グループを追加"
@@ -149,7 +149,7 @@
   "tr": "タブを追加"
  },{
   "en": "Adjust the window rows and columns",
-  "tr": "ウィンドウの行と列を調整します"
+  "tr": "ウィンドウの行と列を調整"
  },{
   "en": "Advanced Sort",
   "tr": "高度な並べ替え"
@@ -158,13 +158,13 @@
   "tr": "エージェント"
  },{
   "en": "Agent authentication failed, please try another method",
-  "tr": "エージェント認証に失敗しました。別の方法を試してください"
+  "tr": "エージェント認証失敗。別の方法を試してください"
  },{
   "en": "All",
   "tr": "すべて"
  },{
   "en": "All %1 sessions will be deleted.\nDo you want to continue importing sessions?",
-  "tr": "すべての%1セッションが削除されます。\nセッションのインポートを続行しますか？"
+  "tr": "全%1セッションが削除されます。\nセッションのインポートを続行しますか？"
  },{
   "en": "All session output",
   "tr": "すべてのセッション出力"
@@ -176,10 +176,10 @@
   "tr": "すべてのタブ"
  },{
   "en": "Alternate column background color",
-  "tr": "代替列の背景色"
+  "tr": "列の背景色（交互）"
  },{
   "en": "Alternate line background color",
-  "tr": "代替線の背景色"
+  "tr": "行の背景色（交互）"
  },{
   "en": "Always On Top",
   "tr": "常に最前面に表示"
@@ -188,10 +188,10 @@
   "tr": "常に最前面に表示"
  },{
   "en": "An error occurred when attempting to read from the %1 process.",
-  "tr": "%1プロセスから読み取ろうとしたときにエラーが発生しました。"
+  "tr": "%1プロセスからの読み取り中にエラーが発生しました。"
  },{
   "en": "An error occurred when attempting to write to the %1 process.",
-  "tr": "%1プロセスに書き込もうとしたときにエラーが発生しました。"
+  "tr": "%1プロセスへの書き込み中にエラーが発生しました。"
  },{
   "en": "An unknown error occurred in %1 process.",
   "tr": "%1プロセスで不明なエラーが発生しました。"
@@ -224,10 +224,10 @@
   "tr": "アプリケーション"
  },{
   "en": "Are you sure you want to delete %1 selected items?",
-  "tr": "選択した%1個のアイテムを削除してもよろしいですか？"
+  "tr": "選択した%1項目を削除してもよろしいですか？"
  },{
   "en": "Are you sure you want to delete item <b>%1</b>?",
-  "tr": "アイテム<b>%1</b>を削除してもよろしいですか？"
+  "tr": "項目<b>%1</b>を削除してもよろしいですか？"
  },{
   "en": "Are you sure you want to reload the current file and lose the changes made in WindEdit?",
   "tr": "現在のファイルをリロードして、WindEditで行った変更を失ってもよろしいですか？"
@@ -248,37 +248,37 @@
   "tr": "開始時"
  },{
   "en": "Attempt gssapi-with-mic authentication",
-  "tr": "gssapi-with-mic認証を試行します"
+  "tr": "gssapi-with-mic認証を試行"
  },{
   "en": "Attempt keyboard-interactive authentication",
-  "tr": "キーボード対話型認証を試行します"
+  "tr": "キーボード対話型認証を試行"
  },{
   "en": "Attempt pageant authentication",
-  "tr": "ページェント認証を試みます"
+  "tr": "ページェント認証を試行"
  },{
   "en": "Attempt password authentication",
-  "tr": "パスワード認証を試みます"
+  "tr": "パスワード認証を試行"
  },{
   "en": "Attempt public-key authentication",
-  "tr": "公開鍵認証を試みます"
+  "tr": "公開鍵認証を試行"
  },{
   "en": "Attempt ssh-agent authentication",
-  "tr": "ssh-agent認証を試みます"
+  "tr": "ssh-agent認証を試行"
  },{
   "en": "Authenticated with partial success, please continue another method.",
-  "tr": "部分的な成功で認証されました。別の方法を試してください。"
+  "tr": "部分的に認証成功。別の方法を続けてください。"
  },{
   "en": "Authenticating by %1",
-  "tr": "%1による認証"
+  "tr": "%1で認証中"
  },{
   "en": "Authenticating by %1 and %2",
-  "tr": "%1と%2による認証"
+  "tr": "%1と%2で認証中"
  },{
   "en": "Authentication",
   "tr": "認証"
  },{
   "en": "Authentication denied, please try again.",
-  "tr": "認証が拒否されました。再試行してください。"
+  "tr": "認証拒否。再試行してください。"
  },{
   "en": "Auto Close HTML/XML Tags",
   "tr": "HTMLとXMLタグの自動クローズ"
@@ -287,7 +287,7 @@
   "tr": "自動ログイン"
  },{
   "en": "Auto login failed, please try again.",
-  "tr": "自動ログインに失敗しました。もう一度やり直してください。"
+  "tr": "自動ログイン失敗。再試行してください。"
  },{
   "en": "Auto login next time",
   "tr": "次回の自動ログイン"
@@ -299,13 +299,13 @@
   "tr": "自動認証方法"
  },{
   "en": "Automatically copy selection",
-  "tr": "選択範囲を自動的にコピー"
+  "tr": "選択範囲を自動コピー"
  },{
   "en": "Automatically detect indentation",
-  "tr": "インデントを自動的に検出"
+  "tr": "インデントを自動検出"
  },{
   "en": "Automatically trim the padding",
-  "tr": "パディングを自動的にトリミング"
+  "tr": "パディングを自動トリミング"
  },{
   "en": "Background marker",
   "tr": "背景マーカー"
@@ -338,10 +338,10 @@
   "tr": "バイナリ列"
  },{
   "en": "Binary devision columns",
-  "tr": "2進除算列"
+  "tr": "2進数列区切り"
  },{
   "en": "Binary grouped characters",
-  "tr": "バイナリグループ化文字"
+  "tr": "バイナリ文字グループ"
  },{
   "en": "Black",
   "tr": "黒"
@@ -371,7 +371,7 @@
   "tr": "太字"
  },{
   "en": "Bold type indicates fixed-width fonts",
-  "tr": "太字は固定幅フォントを示します"
+  "tr": "太字は固定幅フォントを表示"
  },{
   "en": "Bottom Docks",
   "tr": "ボトムドック"
@@ -401,19 +401,19 @@
   "tr": "計算"
  },{
   "en": "Cannot find suitable program to open file:\n%1\nTry use default editor to open it.",
-  "tr": "ファイルを開くのに適したプログラムが見つかりません:\n%1\nデフォルトのエディタを使用して開いてみてください。"
+  "tr": "ファイルを開くプログラムが見つかりません:\n%1\nデフォルトエディタで開いてください。"
  },{
   "en": "Cannot make directory %1.",
-  "tr": "ディレクトリ%1を作成できません。"
+  "tr": "ディレクトリ%1を作成不可。"
  },{
   "en": "Cannot make file %1.",
-  "tr": "ファイル%1を作成できません。"
+  "tr": "ファイル%1を作成不可。"
  },{
   "en": "Cannot make link %1.",
-  "tr": "リンク%1を作成できません。"
+  "tr": "リンク%1を作成不可。"
  },{
   "en": "Cannot remove the directory %1.",
-  "tr": "ディレクトリ%1を削除できません。"
+  "tr": "ディレクトリ%1を削除不可。"
  },{
   "en": "Cancel",
   "tr": "キャンセル"
@@ -725,7 +725,7 @@
   "tr": "ディレクトリリンク"
  },{
   "en": "Disable Nagle's algorithm (TCP_NODELAY option)",
-  "tr": "Nagleのアルゴリズムを無効にします（TCP_NODELAYオプション）"
+  "tr": "Nagleアルゴリズムを無効化（TCP_NODELAYオプション）"
  },{
   "en": "Disconnect Session",
   "tr": "セッションの切断"
@@ -734,7 +734,7 @@
   "tr": "ディスク"
  },{
   "en": "Do not echo characters",
-  "tr": "文字をエコーし​​ないでください"
+  "tr": "文字をエコーしない"
  },{
   "en": "Do you want to close the current session?",
   "tr": "現在のセッションを閉じますか？"
@@ -743,7 +743,7 @@
   "tr": "ドキュメント"
  },{
   "en": "Don't show this message again",
-  "tr": "このメッセージを二度と表示しないでください"
+  "tr": "このメッセージを再表示しない"
  },{
   "en": "Double click",
   "tr": "ダブルクリック"
@@ -776,13 +776,13 @@
   "tr": "動的転送"
  },{
   "en": "Echo every character entered",
-  "tr": "入力したすべての文字をエコーし​​ます"
+  "tr": "入力文字をすべてエコー"
  },{
   "en": "Echo every character when editing",
-  "tr": "編集時にすべてのキャラクターをエコーする"
+  "tr": "編集時にすべての文字をエコー"
  },{
   "en": "Echo random characters",
-  "tr": "ランダムな文字をエコーする"
+  "tr": "ランダム文字をエコー"
  },{
   "en": "Edit",
   "tr": "編集 "
@@ -818,10 +818,10 @@
   "tr": "ローカルモードを有効にする"
  },{
   "en": "Enable TCP keepalives (SO_KEEPALIVE option)",
-  "tr": "TCPキープアライブを有効にする（SO_KEEPALIVEオプション）"
+  "tr": "TCPキープアライブを有効化（SO_KEEPALIVEオプション）"
  },{
   "en": "Enable virtual spaces",
-  "tr": "仮想空間を有効にする"
+  "tr": "仮想空間を有効化"
  },{
   "en": "End Of Document",
   "tr": "ドキュメントの終わり"
@@ -851,7 +851,7 @@
   "tr": "実行"
  },{
   "en": "Execute command after authentication",
-  "tr": "認証後にコマンドを実行する"
+  "tr": "認証後にコマンドを実行"
  },{
   "en": "Execute command after start",
   "tr": "開始後にコマンドを実行"
@@ -884,10 +884,10 @@
   "tr": "ExtraLight"
  },{
   "en": "Failed to create temporary file:\n%1",
-  "tr": "一時ファイルの作成に失敗しました:\n%1"
+  "tr": "一時ファイルの作成に失敗:\n%1"
  },{
   "en": "Failed to open directory: %1",
-  "tr": "ディレクトリを開けませんでした: %1"
+  "tr": "ディレクトリを開けません: %1"
  },{
   "en": "Failed to retrieve host fingerprint!",
   "tr": "ホストフィンガープリントの取得に失敗しました！"
@@ -1205,7 +1205,7 @@
   "tr": "行の挿入"
  },{
   "en": "Insert tab when pressing TAB key",
-  "tr": "Tabキーを押したときにTabキーを挿入する"
+  "tr": "TABキーを押したときにTABキーを挿入する"
  },{
   "en": "Inserting and deleting whitespace follows tab stops",
   "tr": "タブストップに続く空白の挿入と削除"
@@ -1454,7 +1454,7 @@
   "tr": "マージンフォールド"
  },{
   "en": "Margin Number",
-  "tr": "証拠金番号"
+  "tr": "行番号マージン"
  },{
   "en": "Margin Symbol",
   "tr": "マージン記号"
@@ -1628,52 +1628,52 @@
   "tr": "次の単語の一部"
  },{
   "en": "No",
-  "tr": "番号"
+  "tr": "いいえ"
  },{
   "en": "No action",
   "tr": "何もしない"
  },{
   "en": "No Dirs",
-  "tr": "ダースなし"
+  "tr": "ディレクトリなし"
  },{
   "en": "No elide",
   "tr": "エリドなし"
  },{
   "en": "No file opened",
-  "tr": "ファイルが開かれていません"
+  "tr": "ファイル未オープン"
  },{
   "en": "No filer available",
-  "tr": "利用可能なファイラーはありません"
+  "tr": "ファイラーなし"
  },{
   "en": "No Files",
   "tr": "ファイルなし"
  },{
   "en": "No files selected to transfer.",
-  "tr": "転送するファイルが選択されていません。"
+  "tr": "転送ファイル未選択"
  },{
   "en": "No item opened",
-  "tr": "アイテムが開かれていません"
+  "tr": "項目未オープン"
  },{
   "en": "No outline available",
-  "tr": "利用可能な概要はありません"
+  "tr": "アウトラインなし"
  },{
   "en": "No session",
   "tr": "セッションなし"
  },{
   "en": "No session available",
-  "tr": "利用可能なセッションはありません"
+  "tr": "利用可能セッションなし"
  },{
   "en": "No session opened",
-  "tr": "セッションが開かれていません"
+  "tr": "セッション未オープン"
  },{
   "en": "No Sessions",
   "tr": "セッションなし"
  },{
   "en": "No supported authentication methods available.",
-  "tr": "サポートされている認証方法はありません。"
+  "tr": "サポート認証方式なし"
  },{
   "en": "No transfer available",
-  "tr": "転送は利用できません"
+  "tr": "転送機能なし"
  },{
   "en": "No wrap",
   "tr": "折り返しなし"
@@ -1865,7 +1865,7 @@
   "tr": "一時停止"
  },{
   "en": "Perform DNS lookup with proxy",
-  "tr": "プロキシを使用してDNSルックアップを実行する"
+  "tr": "プロキシでDNS検索を実行"
  },{
   "en": "Period",
   "tr": "期間"
@@ -1880,16 +1880,16 @@
   "tr": "このビューの新しい名前を入力してください"
  },{
   "en": "Please input master password, empty or cancel to disable",
-  "tr": "マスターパスワードを入力するか、空にするかキャンセルして無効にしてください"
+  "tr": "マスターパスワードを入力（空欄またはキャンセルで無効化）"
  },{
   "en": "Please input new group",
   "tr": "新しいグループを入力してください"
  },{
   "en": "Please make sure you remember the Master Password you have set.",
-  "tr": "設定したマスターパスワードを忘れないでください。"
+  "tr": "設定したマスターパスワードを必ず覚えておいてください。"
  },{
   "en": "Port",
-  "tr": "港"
+  "tr": "ポート"
  },{
   "en": "Prefer theme fonts",
   "tr": "テーマフォントを優先する"
@@ -1961,7 +1961,7 @@
   "tr": "プロセス%1がクラッシュしました。"
  },{
   "en": "Process %1 failed to start.",
-  "tr": "プロセス%1を開始できませんでした。"
+  "tr": "プロセス%1の起動に失敗しました。"
  },{
   "en": "Process %1 timeout.",
   "tr": "プロセス%1がタイムアウトしました。"
@@ -2318,13 +2318,13 @@
   "tr": "送信者"
  },{
   "en": "Sending %1 failed: %2",
-  "tr": "%1の送信に失敗しました: %2"
+  "tr": "%1の送信失敗: %2"
  },{
   "en": "Sending: %1",
   "tr": "送信中: %1"
  },{
   "en": "Sends null packet to keep session alive",
-  "tr": "セッションを存続させるためにnullパケットを送信します"
+  "tr": "セッション維持のためnullパケットを送信"
  },{
   "en": "sent",
   "tr": "送信済"
@@ -2405,13 +2405,13 @@
   "tr": "アクションの表示と実行"
  },{
   "en": "Show close tab confirmation dialog",
-  "tr": "タブを閉じる確認ダイアログを表示する"
+  "tr": "タブを閉じる確認ダイアログを表示"
  },{
   "en": "Show close window confirmation dialog",
-  "tr": "ウィンドウを閉じる確認ダイアログを表示する"
+  "tr": "ウィンドウを閉じる確認ダイアログを表示"
  },{
   "en": "Show column markers",
-  "tr": "列マーカーを表示する"
+  "tr": "列マーカーを表示"
  },{
   "en": "Show commands in alphabetical order",
   "tr": "コマンドをアルファベット順に表示"
@@ -2426,7 +2426,7 @@
   "tr": "グループタイトルを表示"
  },{
   "en": "Show hidden items",
-  "tr": "非表示のアイテムを表示する"
+  "tr": "隠し項目を表示"
  },{
   "en": "Show in %1",
   "tr": "%1で表示"
@@ -2444,7 +2444,7 @@
   "tr": "インデントガイドを表示"
  },{
   "en": "Show line endings",
-  "tr": "行末を表示する"
+  "tr": "行末を表示"
  },{
   "en": "Show menu",
   "tr": "メニューを表示"
@@ -2453,7 +2453,7 @@
   "tr": "その他のツールを表示"
  },{
   "en": "Show multiple groups",
-  "tr": "複数のグループを表示"
+  "tr": "複数グループを表示"
  },{
   "en": "Show paste dialog on the alternative screen",
   "tr": "代替画面に貼り付けダイアログを表示"
@@ -2462,7 +2462,7 @@
   "tr": "メイン画面に貼り付けダイアログを表示"
  },{
   "en": "Show spaces and tabs",
-  "tr": "スペースとタブを表示する"
+  "tr": "スペースとタブを表示"
  },{
   "en": "Show Tabs",
   "tr": "タブを表示"
@@ -2471,13 +2471,13 @@
   "tr": "テキストを表示"
  },{
   "en": "Show the tab number on tabs",
-  "tr": "タブにタブ番号を表示する"
+  "tr": "タブに番号を表示"
  },{
   "en": "Show this dialog when focus mode starts",
-  "tr": "フォーカスモードの開始時にこのダイアログを表示する"
+  "tr": "フォーカスモード開始時にこのダイアログを表示"
  },{
   "en": "Show wrap symbols",
-  "tr": "折り返し記号を表示する"
+  "tr": "折り返し記号を表示"
  },{
   "en": "Shrink",
   "tr": "縮む"
@@ -2696,40 +2696,40 @@
   "tr": "テキスト: %1行、%2文字"
  },{
   "en": "The % sign",
-  "tr": "記号"
+  "tr": "%記号"
  },{
   "en": "The actual text to log",
   "tr": "ログに記録する実際のテキスト"
  },{
   "en": "The destination folder is a subfolder of the source folder:\n%1",
-  "tr": "宛先フォルダーは、ソースフォルダーのサブフォルダーです:\n%1"
+  "tr": "宛先フォルダはソースフォルダのサブフォルダです:\n%1"
  },{
   "en": "The document has been modified.\nDo you want to save your changes?",
   "tr": "ドキュメントが変更されました。\n変更を保存しますか？"
  },{
   "en": "The key combination (%1) is not a command.",
-  "tr": "キーの組み合わせ（%1）はコマンドではありません。"
+  "tr": "キー組合せ(%1)はコマンドではありません。"
  },{
   "en": "The lrzsz is not detected. Please install lrzsz first.",
-  "tr": "lrzszは検出されません。最初にlrzszをインストールしてください。"
+  "tr": "lrzszが見つかりません。先にlrzszをインストールしてください。"
  },{
   "en": "The master password has been changed.",
   "tr": "マスターパスワードが変更されました。"
  },{
   "en": "The password confirmation does not match.",
-  "tr": "パスワードの確認が一致しません。"
+  "tr": "パスワード確認が一致しません。"
  },{
   "en": "The server canceled the transmission.",
-  "tr": "サーバーは送信をキャンセルしました。"
+  "tr": "サーバーが転送をキャンセルしました。"
  },{
   "en": "The session is <b>disconnected</b>, press <b>Enter</b> to reconnect.",
-  "tr": "セッションは<b>切断</b>されています。<b>Enter</b>を押して再接続します。"
+  "tr": "セッションが<b>切断</b>されました。<b>Enter</b>で再接続。"
  },{
   "en": "The transfer was canceled because a packet was not %1 within retry limit.",
   "tr": "パケットが再試行制限内で%1にならなかったため、転送はキャンセルされました。"
  },{
   "en": "The transfer was canceled because the packet sequence number was wrong.",
-  "tr": "パケットシーケンス番号が間違っていたため、転送がキャンセルされました。"
+  "tr": "パケットシーケンス番号エラーにより転送がキャンセルされました。"
  },{
   "en": "Theme",
   "tr": "テーマ"
@@ -2834,7 +2834,7 @@
   "tr": "転置"
  },{
   "en": "Trim trailing whitespace on save",
-  "tr": "saveで末尾の空白を削除します"
+  "tr": "保存時に末尾の空白を削除"
  },{
   "en": "Trust this host",
   "tr": "このホストを信頼する"
@@ -2876,7 +2876,7 @@
   "tr": "内側に展開"
  },{
   "en": "Unify line endings on save",
-  "tr": "保存時に行末を統一する"
+  "tr": "保存時に行末を統一"
  },{
   "en": "UnixPty",
   "tr": "UnixPty"
@@ -2915,13 +2915,13 @@
   "tr": "queryの代わりに{q}が付いたURL"
  },{
   "en": "Use background color to erase screen",
-  "tr": "背景色を使用して画面を消去します"
+  "tr": "背景色で画面を消去"
  },{
   "en": "Use system line ending",
-  "tr": "システムラインエンディングを使用する"
+  "tr": "システムの行末を使用"
  },{
   "en": "Use this as the default and do not ask again",
-  "tr": "これをデフォルトとして使用し、再度質問しないでください"
+  "tr": "これをデフォルトとし再度確認しない"
  },{
   "en": "User",
   "tr": "ユーザー"
@@ -2957,13 +2957,13 @@
   "tr": "複数行を貼り付ける場合"
  },{
   "en": "When remote title is changed",
-  "tr": "リモートタイトルが変更されたとき"
+  "tr": "リモートタイトル変更時"
  },{
   "en": "When session is authenticating",
-  "tr": "セッションが認証中の場合"
+  "tr": "セッション認証中"
  },{
   "en": "When window is resized",
-  "tr": "ウィンドウのサイズが変更されたとき"
+  "tr": "ウィンドウサイズ変更時"
  },{
   "en": "Where",
   "tr": "どこ"
@@ -2999,7 +2999,7 @@
   "tr": "Windowsマネージャー"
  },{
   "en": "Winpty-agent.exe or winpty.dll not found!.",
-  "tr": "Winpty-agent.exeまたはwinpty.dllが見つかりません！。"
+  "tr": "Winpty-agent.exeまたはwinpty.dllが見つかりません。"
  },{
   "en": "Word",
   "tr": "単語"
@@ -3337,10 +3337,10 @@
   "tr": "リモートがクリップボードを読み取ろうとする場合"
  },{
   "en": "Window %1×%2",
-  "tr": "ウィンドウ %1×%2"
+  "tr": "ウィンドウ%1×%2"
  },{
   "en": "Windows 10 version below 19H1 (build 18309) is not supported.",
-  "tr": "Windows 10バージョン19H1（ビルド18309）未満はサポートされていません。"
+  "tr": "Windows 10バージョン19H1（ビルド18309）未満はサポート対象外。"
  },{
   "en": "Word Separators For Alternate Screen",
   "tr": "代替画面の単語区切り文字"
@@ -3502,10 +3502,10 @@
   "tr": "補完"
  },{
   "en": "Connection failed, jump server \"%1\" does not exist.",
-  "tr": "接続に失敗しました。ジャンプサーバー「%1」が存在しません。"
+  "tr": "接続失敗: ジャンプサーバー「%1」が存在しません。"
  },{
   "en": "Connection failed, the session \"%1\" does not exist.",
-  "tr": "接続に失敗しました。セッション「%1」が存在しません。"
+  "tr": "接続失敗: セッション「%1」が存在しません。"
  },{
   "en": "Copy Command",
   "tr": "コマンドをコピー"
@@ -3637,7 +3637,7 @@
   "tr": "システムプロキシ"
  },{
   "en": "The authentication has been removed.",
-  "tr": "認証が削除されました。"
+  "tr": "認証情報が削除されました。"
  },{
   "en": "The changes will be applied to NEW and all EXISTING sessions. Do you want to continue?",
   "tr": "変更は新規および既存のすべてのセッションに適用されます。続行しますか？"
@@ -3733,13 +3733,13 @@
   "tr": "アプレットバー"
  },{
   "en": "Application is trying to decrypt proxy password.",
-  "tr": "アプリケーションはプロキシパスワードを復号化しようとしています。"
+  "tr": "アプリがプロキシパスワードを復号化しようとしています。"
  },{
   "en": "Application is trying to display the saved authentication.",
-  "tr": "アプリケーションは保存された認証情報を表示しようとしています。"
+  "tr": "アプリが保存された認証情報を表示しようとしています。"
  },{
   "en": "Application is trying to encrypt proxy password.",
-  "tr": "アプリケーションはプロキシパスワードを暗号化しようとしています。"
+  "tr": "アプリがプロキシパスワードを暗号化しようとしています。"
  },{
   "en": "Auto Sync Terminal Folder",
   "tr": "ターミナルフォルダを自動同期"
@@ -3781,10 +3781,10 @@
   "tr": "チャレンジ"
  },{
   "en": "Click the key to prevent further changes.",
-  "tr": "これ以上の変更を防ぐにはキーをクリックしてください。"
+  "tr": "キーをクリックして変更を防止。"
  },{
   "en": "Click the lock to make changes.",
-  "tr": "変更を加えるにはロックをクリックしてください。"
+  "tr": "ロックをクリックして変更を許可。"
  },{
   "en": "Command+Click to execute command",
   "tr": "Command+クリックでコマンドを実行"
@@ -3907,7 +3907,7 @@
   "tr": "待機する文字列と送信するテキストを入力してください。"
  },{
   "en": "Enter your master password to allow this",
-  "tr": "これを許可するにはマスターパスワードを入力してください"
+  "tr": "許可するにはマスターパスワードを入力"
  },{
   "en": "Event: after connection",
   "tr": "イベント: 接続後"
@@ -3949,7 +3949,7 @@
   "tr": "アイデンティティファイル"
  },{
   "en": "items found",
-  "tr": "アイテムが見つかりました"
+  "tr": "項目が見つかりました"
  },{
   "en": "Keyboard interactive",
   "tr": "キーボードインタラクティブ"
@@ -3964,7 +3964,7 @@
   "tr": "ラインスタイル"
  },{
   "en": "Login Wizard is trying to decrypt the OneKey \"%1\".",
-  "tr": "ログインウィザードはOneKey「%1」を復号化しようとしています。"
+  "tr": "ログインウィザードがOneKey「%1」を復号化しようとしています。"
  },{
   "en": "Login Wizard is trying to enable auto login.",
   "tr": "ログインウィザードは自動ログインを有効にしようとしています。"
@@ -4000,31 +4000,31 @@
   "tr": "次へ"
  },{
   "en": "No action available",
-  "tr": "利用可能なアクションがありません"
+  "tr": "利用可能アクションなし"
  },{
   "en": "No onekey available",
-  "tr": "利用可能なワンキーがありません"
+  "tr": "利用可能ワンキーなし"
  },{
   "en": "No saved authentication.",
-  "tr": "保存された認証情報がありません。"
+  "tr": "保存認証情報なし"
  },{
   "en": "No sound available",
-  "tr": "利用可能なサウンドがありません"
+  "tr": "利用可能サウンドなし"
  },{
   "en": "No system available",
-  "tr": "利用可能なシステムがありません"
+  "tr": "利用可能システムなし"
  },{
   "en": "No text mark available",
-  "tr": "利用可能なテキストマークがありません"
+  "tr": "利用可能テキストマークなし"
  },{
   "en": "No trigger available",
-  "tr": "利用可能なトリガーがありません"
+  "tr": "利用可能トリガーなし"
  },{
   "en": "Not enough memory to read this file.",
-  "tr": "このファイルを読み込むのに十分なメモリがありません。"
+  "tr": "このファイルを読み込むメモリが不足。"
  },{
   "en": "OneKey Manager is trying to modify the onekey settings.",
-  "tr": "OneKeyマネージャーはワンキー設定を変更しようとしています。"
+  "tr": "OneKeyマネージャーがワンキー設定を変更しようとしています。"
  },{
   "en": "OneKey Manager",
   "tr": "OneKeyマネージャー"
@@ -4108,7 +4108,7 @@
   "tr": "スクリプト"
  },{
   "en": "Select an identity file for the %1 system.",
-  "tr": "%1システム用のアイデンティティファイルを選択してください。"
+  "tr": "%1システム用の認証ファイルを選択してください。"
  },{
   "en": "Select Command",
   "tr": "コマンドを選択"
@@ -4213,7 +4213,7 @@
   "tr": "トリガー「%2」のコマンド「%1」を実行できません。\\nトリガー設定を確認して再試行してください。"
  },{
   "en": "The session %1 is trying to decrypt data for auto login.",
-  "tr": "セッション%1は自動ログイン用のデータを復号化しようとしています。"
+  "tr": "セッション%1が自動ログイン用のデータを復号化しようとしています。"
  },{
   "en": "Tooltip",
   "tr": "ツールチップ"
@@ -4225,7 +4225,7 @@
   "tr": "トリガー"
  },{
   "en": "Unauthorized to view authentication.",
-  "tr": "認証情報の表示が許可されていません。"
+  "tr": "認証情報の表示権限がありません。"
  },{
   "en": "Unknown error.",
   "tr": "不明なエラー。"
